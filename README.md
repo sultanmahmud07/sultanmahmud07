@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MR SHIMUL </h1>
+<h1 align="center">Hi 👋, I'm Mr. Shimul </h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [FARE](fare.com.bd)
