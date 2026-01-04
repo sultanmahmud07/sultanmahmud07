@@ -41,7 +41,7 @@ I am a **Full Stack Developer** with almost **3 years of professional experience
 - 👯 I’m looking to collaborate on **[Dovatonic](https://dovatonic.com)**
 - 👨‍💻 All of my projects are available at **[devshimul.com](https://devshimul.com)**
 - 📝 I regularly write articles on **[My Blog](https://mrshimul.vercel.app/blog)**
-- 📫 How to reach me: **mdshimul.m007@gmail.com**
+- 📫 How to reach me: **info@devshimul.com**
 
 ---
 
