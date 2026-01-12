@@ -39,8 +39,8 @@ I am a **Full Stack Developer** with almost **3 years of professional experience
 
 - 🔭 I’m currently working on **[FARE](https://fare.com.bd)**
 - 👯 I’m looking to collaborate on **[Dovatonic](https://dovatonic.com)**
-- 👨‍💻 All of my projects are available at **[devshimul.com](https://devshimul.com)**
-- 📝 I regularly write articles on **[My Blog](https://mrshimul.vercel.app/blog)**
+- 👨‍💻 All of my projects are available at **[www.devshimul.com](https://devshimul.com)**
+- 📝 I regularly write articles on **[My Blog](https://devshimul/blog)**
 - 📫 How to reach me: **info@devshimul.com**
 
 ---
